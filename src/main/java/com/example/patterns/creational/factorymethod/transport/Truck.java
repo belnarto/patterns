@@ -9,4 +9,5 @@ public class Truck implements Transport {
     public void deliver() {
         log.info("Delivered by truck");
     }
+
 }
